@@ -18,7 +18,7 @@ int main(){
 		c=pow(a,(float)1/4);
 		cout<<" hasil akar 4 = "<<c<<endl<<endl;
 	
-	
+	cout<<"  OKOK";
 	getch ();
 }
 
